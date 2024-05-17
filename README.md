@@ -15,7 +15,7 @@ This repository is dedicated to the **Data Structures in C** course, part of my 
 ## 🛠️ Technologies & Tools
 
 - **Programming Language**: ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-- **IDE**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual
+- **IDE**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual)
 
 ## Data Structures Covered
 
